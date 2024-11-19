@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AAbbey01
+# 👋 Hi, I’m @AAbbey01
 - 👀 I’m interested in Coding and Cybersecurity!
 - 🦀 I’m currently Loving Rust
    -  🔍 I'm currently Exploring Rust for IoT
 - 🌱 Actively Developing A GroupMe Bot
 <!--- 💞️ I’m looking to collaborate on ...--->
-📫 How to reach me
+# 📫 How to reach me
   - Email: aabbey1@binghamton.edu
 
 
