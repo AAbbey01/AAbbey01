@@ -1,14 +1,67 @@
-# 👋 Hi, I’m @AAbbey01
-- 👀 I’m interested in Coding and Cybersecurity!
-- 🦀 I’m currently Loving Rust
-   -  🔍 I'm currently Exploring Rust for IoT
-- 🌱 Actively Developing A GroupMe Bot
-<!--- 💞️ I’m looking to collaborate on ...--->
-# 📫 How to reach me
-  - Email: aabbey1@binghamton.edu
+# 👋 Hey, I'm Adam Abbey
 
+💻 Computer Science student focused on building systems that actually solve real problems  
+🔐 Interested in cybersecurity, systems programming, and full-stack development  
+⚙️ I like working on things that sit between low-level performance and real-world usability  
 
-<!---
-AAbbey01/AAbbey01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 What I'm About
+
+- 🔐 Cybersecurity & vulnerability analysis (CVE research, deception techniques)
+- ⚙️ Systems programming + performance monitoring
+- 🌐 Full-stack development (interactive + data-driven apps)
+- 🗺️ Building tools people can actually use, not just demo
+
+---
+
+## 🚧 Current Projects
+
+### 🗺️ 3D Campus Navigation System
+- Web-based interactive 3D map with indoor routing
+- Accessibility-focused navigation
+- Future plans: real-time occupancy + smart routing
+
+### 🔐 CVE Research & Cybersecurity
+- Deep dive into vulnerability analysis  
+- Focus on replication + defensive strategies  
+- Example: analysis of CVE-2024-5835  
+
+### 🧠 Systems + Browser Tooling
+- Memory monitoring for Chromium-based environments  
+- Exploring defensive techniques against malicious sites  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- C / C++
+
+**Tools & Areas**
+- Web Development (Frontend + Backend)
+- Systems Programming
+- Cybersecurity Research
+- Data Processing & Visualization
+
+---
+
+## 📈 What I'm Working Toward
+
+- Building scalable, real-world software systems  
+- Deepening knowledge in security + low-level systems  
+- Creating tools that bridge usability and technical depth  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/AAbbey01
+
+---
+
+## ⚡ Fun Fact
+
+I tend to over-engineer projects… but they end up way more interesting that way.
