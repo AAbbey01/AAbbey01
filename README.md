@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Adam Abbey
 
-💻 Computer Science student focused on building systems that actually solve real problems  
+💻 Computer Science grad focused on building systems that actually solve real problems  
 🔐 Interested in cybersecurity, systems programming, and full-stack development  
 ⚙️ I like working on things that sit between low-level performance and real-world usability  
 
